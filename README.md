@@ -1,40 +1,57 @@
-<div align="center">
-  <img src="./images/banner.png" alt="Ximena Jaramillo Cardenas - Full Stack Developer" width="100%" />
-</div>
+<!-- ═══════════ HEADER ANIMADO EN ROSA ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:c084fc,100:a78bfa&height=220&section=header&text=XIMENA%20JARAMILLO&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=22&descAlignY=75&fontAlignY=45"/>
+</p>
 
-<div align="center">
+<!-- ═══════════ TYPING ANIMADO ═══════════ -->
+<p align="center">
+  <a href="https://github.com/Jaramc">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=520&lines=Backend+con+C%23+y+.NET;DevOps+·+Docker+·+Kubernetes;PostgreSQL+·+Azure+·+RabbitMQ;Construyendo+desde+Medell%C3%ADn"/>
+  </a>
+</p>
 
-  <img src="https://img.shields.io/badge/Medell%C3%ADn-CO-0d1117?style=flat-square&logo=googlemaps&logoColor=a3e635&labelColor=0d1117" alt="Medellín, Colombia" />
-  <img src="https://img.shields.io/badge/Riwi-Coder-0d1117?style=flat-square&logo=codecrafters&logoColor=a78bfa&labelColor=0d1117" alt="Riwi Coder" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%C2%B7%20DevOps-0d1117?style=flat-square&logo=dotnet&logoColor=f472b6&labelColor=0d1117" alt="Backend y DevOps" />
-  <img src="https://komarev.com/ghpvc/?username=Jaramc&style=flat-square&color=a3e635&label=visitors" alt="Visitas al perfil" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Medell%C3%ADn,%20CO-f472b6?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riwi%20·%20Coder-c084fc?style=flat-square&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ing.%20Software%20·%208%C2%BA%20semestre-a78bfa?style=flat-square&logo=googlescholar&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Jaramc&style=flat-square&color=f472b6&label=visitas"/>
+</p>
 
-</div>
+<!-- ═══════════ ICONOS SOCIALES ═══════════ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ximena-jaramillo-cardenas">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jaramc">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
+  </a>
+  <a href="mailto:ximenajaramc@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/app" title="Discord: ximena.jaram_c">
+    <img src="https://skillicons.dev/icons?i=discord" width="42" alt="Discord: ximena.jaram_c" />
+  </a>
+</p>
 
----
+<!-- ═══════════ PRESENTACIÓN PERSONAL ═══════════ -->
+<p align="center">
+  <b>Hola 👋 Soy Ximena, desarrolladora full stack.</b>
+</p>
 
-```console
+Trabajo sobre todo en el **backend** con **C# / .NET** y bases de datos **PostgreSQL**, y me muevo con soltura en infraestructura: **Docker, Kubernetes, Azure y RabbitMQ**. Ahora mismo soy Tech Lead en **Cerberus** (DevSecOps) y llevo la base de datos y el despliegue en **PAWS**.
+
+Me gusta **trabajar en equipo**: soy buena comunicándome y socializando, disfruto explicar lo que sé y aprender de los demás. Cada proyecto lo tomo como una excusa para mejorar un poco más.
+
+<!-- ═══════════ PRESENTACIÓN (TERMINAL) ═══════════ -->
+```ansi
 ximena@github:~$ whoami
-ximena · full stack developer · medellin.co
+[38;2;244;114;182mximena[0m · full stack developer · medellín, co
 
-ximena@github:~$ neofetch
-
-        ▄▄▄       ▄▄▄        ximena@github
-        ███▄     ▄███        ──────────────────────────────────────────────────────────
-         ▀███▄ ▄███▀         OS ........... Colombia GNU/Linux x86_64
-           ▀█████▀           Host ......... Medellín · Antioquia · CO
-             ███             Role ......... Full Stack Developer
-           ▄█████▄           Now .......... Ing. de Software · 8.º semestre · TdeA
-         ▄███▀ ▀███▄         Bootcamp ..... Riwi · Coder · ruta de software 25-26
-        ███▀     ▀███        Focus ........ Backend C#/.NET · DevOps · Kubernetes
-        ▀▀▀       ▀▀▀        Project ...... Cerberus · Tech Lead · infra k3s + RabbitMQ
-                             Project ...... PAWS · PostgreSQL · Docker · Azure
-                             Shell ........ bash · pwsh
-                             Editor ....... VS Code · Rider
-                             Languages .... es_CO (nativo) · en_US (A1)
-                             Uptime ....... 8 semestres · 0 días de rendirse
-
-                             ███ ███ ███ ███ ███ ███ ███ ███
+ximena@github:~$ cat sobre-mi.txt
+> Backend con C# / .NET 8-10 y bases de datos PostgreSQL
+> Opero infraestructura: k3s · Docker · Azure · RabbitMQ
+> Tech Lead en Cerberus (DevSecOps) · BD y despliegue en PAWS
+> Scrum, liderazgo y aprendizaje constante
 ```
 
 ---
@@ -77,11 +94,11 @@ drwxr-xr-x   ximena   dev    devops/
 ```console
 ximena@github:~$ cat curiosidades.txt
 
-> la música es el compilador del día: sin ella, nada builda
-> camino distancias absurdas — mis mejores refactors pasan a pie
-> practico artes marciales: disciplina, guardia alta y foco
-> otaku declarada — este perfil corre con estética de Gachiakuta
-> el cine es mi documentación favorita: historia, ritmo y encuadre
+> Musica
+> Caminar
+> practico artes marciales
+> Anime y series 
+> Ir al cine
 > piscinas, playas o charcos: si hay agua, yo me lanzo
 ```
 
