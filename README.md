@@ -34,13 +34,27 @@
 </p>
 
 <!-- ═══════════ PRESENTACIÓN PERSONAL ═══════════ -->
-<p align="center">
-  <b>Hola 👋 Soy Ximena, desarrolladora full stack.</b>
-</p>
-
-Trabajo sobre todo en el **backend** con **C# / .NET** y bases de datos **PostgreSQL**, y me muevo con soltura en infraestructura: **Docker, Kubernetes, Azure y RabbitMQ**. Ahora mismo soy Tech Lead en **Cerberus** (DevSecOps) y llevo la base de datos y el despliegue en **PAWS**.
-
-Me gusta **trabajar en equipo**: soy buena comunicándome y socializando, disfruto explicar lo que sé y aprender de los demás. Cada proyecto lo tomo como una excusa para mejorar un poco más.
+<table>
+  <tr>
+    <td width="240" align="center">
+      <img src="./images/poster.jpg" alt="Ximena Jaramillo Cardenas - Developer Backend" width="230" />
+    </td>
+    <td>
+      <h3>Hola 👋 Soy Ximena, desarrolladora full stack.</h3>
+      <p>
+        Trabajo sobre todo en el <b>backend</b> con <b>C# / .NET</b> y bases de datos
+        <b>PostgreSQL</b>, y me muevo con soltura en infraestructura:
+        <b>Docker, Kubernetes, Azure y RabbitMQ</b>. Ahora mismo soy Tech Lead en
+        <b>Cerberus</b> (DevSecOps) y llevo la base de datos y el despliegue en <b>PAWS</b>.
+      </p>
+      <p>
+        Me gusta <b>trabajar en equipo</b>: soy buena comunicándome y socializando,
+        disfruto explicar lo que sé y aprender de los demás. Cada proyecto lo tomo como
+        una excusa para mejorar un poco más.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════ PRESENTACIÓN (TERMINAL) ═══════════ -->
 ```ansi
@@ -176,10 +190,6 @@ logout · gracias por pasar por la terminal
 ```
 
 <div align="center">
-
-  <img src="./images/poster.jpg" alt="Ximena Jaramillo Cardenas - Developer Backend" width="230" />
-
-  <br /><br />
 
   <a href="https://www.linkedin.com/in/ximena-jaramillo-cardenas">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B&logoColor=a78bfa&labelColor=0d1117" alt="LinkedIn" />
