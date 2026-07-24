@@ -40,12 +40,13 @@
       <img src="./images/poster.jpg" alt="Ximena Jaramillo Cardenas - Developer Backend" width="230" />
     </td>
     <td>
-      <h3>Hola 👋 Soy Ximena, desarrolladora full stack.</h3>
+      <h3>Hola Soy Ximena, desarrolladora full stack.</h3>
       <p>
         Trabajo sobre todo en el <b>backend</b> con <b>C# / .NET</b> y bases de datos
         <b>PostgreSQL</b>, y me muevo con soltura en infraestructura:
-        <b>Docker, Kubernetes, Azure y RabbitMQ</b>. Ahora mismo soy Tech Lead en
-        <b>Cerberus</b> (DevSecOps) y llevo la base de datos y el despliegue en <b>PAWS</b>.
+        <b>Docker, Kubernetes, Azure y RabbitMQ</b>. He tenido la oportunidad de
+        <b>liderar equipo</b> en proyectos de desarrollo, encargándome también de la
+        base de datos y el despliegue.
       </p>
       <p>
         Me gusta <b>trabajar en equipo</b>: soy buena comunicándome y socializando,
