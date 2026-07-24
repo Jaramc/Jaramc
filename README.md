@@ -20,15 +20,15 @@ ximena · full stack developer · medellin.co
 ximena@github:~$ neofetch
 
         ▄▄▄       ▄▄▄        ximena@github
-        ███▄     ▄███        ───────────────────────────────────────────────
+        ███▄     ▄███        ──────────────────────────────────────────────────────────
          ▀███▄ ▄███▀         OS ........... Colombia GNU/Linux x86_64
            ▀█████▀           Host ......... Medellín · Antioquia · CO
              ███             Role ......... Full Stack Developer
            ▄█████▄           Now .......... Ing. de Software · 8.º semestre · TdeA
          ▄███▀ ▀███▄         Bootcamp ..... Riwi · Coder · ruta de software 25-26
         ███▀     ▀███        Focus ........ Backend C#/.NET · DevOps · Kubernetes
-        ▀▀▀       ▀▀▀        Highlight .... Cerberus · Tech Lead & infra k3s (3 nodos)
-                             Highlight .... PAWS · base de datos + despliegue Azure
+        ▀▀▀       ▀▀▀        Project ...... Cerberus · Tech Lead · infra k3s + RabbitMQ
+                             Project ...... PAWS · PostgreSQL · Docker · Azure
                              Shell ........ bash · pwsh
                              Editor ....... VS Code · Rider
                              Languages .... es_CO (nativo) · en_US (A1)
